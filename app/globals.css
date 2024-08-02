@@ -33,3 +33,10 @@ body {
     text-wrap: balance;
   }
 }
+.flip {
+  transform: scaleX(-1); /* Flips the element horizontally */
+}
+body {
+  margin: 20px;
+  background-color: blue;
+}

@@ -31,4 +31,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-(https://vercel.com/nadeenetribys-projects/workout-log) then click visit in vercel website
+((https://workout-9756ja250-nadeenetribys-projects.vercel.app/)
